@@ -1,4 +1,4 @@
-# Project-Genes_Dataset-PCA-LDA
+# Project-Genes-Dataset-PCA-LDA
 
  The dataset contains two main features: 
 
